@@ -4,6 +4,8 @@ This is a simple shiny app that forecast the opening stock price of Google's sto
 
 See the app here: [Forecast of GOOG stock](https://anrim.shinyapps.io/shiny-timeseries)
 
+![Screenshot of the shiny app](screenshot1.png)
+
 ## Parameters
 
 **Date range** - The date range to forecast the stock
